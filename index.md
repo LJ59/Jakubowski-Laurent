@@ -29,7 +29,7 @@ Pragmatique, curieux et créatif
 - Eco-conception de services numériques – GreenIT – 2021
 - Product Owner – Cegos – 2020 - Certification non passée
 - Co-Design – CNFPT/OKONI – 2019 - Initiation au design orienté politiques publiques
-- [Alpha#1] (https://beta.gouv.fr/2017/12/08/alpha1.html) - 2017 - Méthodes d’innovation publique de l’incubateur Beta.gouv.fr
+- [Alpha#1](https://beta.gouv.fr/2017/12/08/alpha1.html) - 2017 - Méthodes d’innovation publique de l’incubateur Beta.gouv.fr
 
 ### Master 2 MSP Informatique (En alternance) - Université de Calais - 2007
 > Mémoire de fin d'études sur la mise en œuvre d'une solution mobile pour les travailleurs sociaux
@@ -50,7 +50,7 @@ Pragmatique, curieux et créatif
 #### Chef de Projet – Direction de la communication – Service Labo
 -	Conseil, accompagnement et pilotage de solutions numériques 
 -	Préconisations, veille, lien technique (DSi, prestataires)
--	Mise en Oeuvre d'outils Saas (Design system, emailing, formulaires)
+-	Mise en Oeuvre d'outils Saas ([Design system](https://communication.lenord.fr/), [emailing](https://www.sarbacane.com/), [formulaires](https://www.typeform.com/))
 
 ### CONSEIL DEPARTEMENTAL DU PAS DE CALAIS (10 ANS)
 
