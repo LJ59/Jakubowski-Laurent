@@ -1,4 +1,4 @@
-# Laurent JAKUBOWSKI
+# Laurent
 
 > Chef de projets (numériques)
 
