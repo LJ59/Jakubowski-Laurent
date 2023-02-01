@@ -20,7 +20,7 @@ Pragmatique, curieux et créatif
 
 ## Compétences techniques
 - Langages :	SQL, HTML, CSS, Javascript
-- Framework :	Bootstrap 4.0 
+- Framework :	Bootstrap 4.0. Je jetterai bien mon dévolu sur NodeJS et Hugo
 - SGBD :	Quelques restes en Oracle, Mysql et décisionnel (Business Objects)
 - Outils préférés : Slack, Notion, Mindnode, Vscodium
 
@@ -29,7 +29,7 @@ Pragmatique, curieux et créatif
 - Eco-conception de services numériques – GreenIT – 2021
 - Product Owner – Cegos – 2020 - Certification non passée
 - Co-Design – CNFPT/OKONI – 2019 - Initiation au design orienté politiques publiques
-- [Alpha#1] (https://beta.gouv.fr/2017/12/08/alpha1.html) - 2017 - Formation sur les méthodes d’innovations publiques de l’incubateur Beta.gouv.fr
+- [Alpha#1] (https://beta.gouv.fr/2017/12/08/alpha1.html) - 2017 - Méthodes d’innovation publique de l’incubateur Beta.gouv.fr
 
 ### Master 2 MSP Informatique (En alternance) - Université de Calais - 2007
 > Mémoire de fin d'études sur la mise en œuvre d'une solution mobile pour les travailleurs sociaux
@@ -87,5 +87,8 @@ Pragmatique, curieux et créatif
 - Chorale et atelier jazz au conservatoire de La Madeleine.
 - Sports : 20 ans de planche à voile dont 10 ans d’encadrement (Moniteur et entraineur fédéral)- Running
 - Radiohead : Co-webmaster du site www.radiohead.fr jusque 2017
+
+---
+@jaku@mamot.fr - [Linkedin](https://www.linkedin.com/in/laurent-jakubowski-01080627)
 
 
