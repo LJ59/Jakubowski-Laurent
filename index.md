@@ -1,5 +1,3 @@
-# Laurent
-
 > Chef de projets (numériques)
 
 48 ans, 2 enfants
