@@ -24,10 +24,10 @@ Pragmatique, curieux et créatif
 
 ## Formations
 
-- Eco-conception de services numériques – GreenIT – 2021
-- Product Owner – Cegos – 2020 - Certification non passée
-- Co-Design – CNFPT/OKONI – 2019 - Initiation au design orienté politiques publiques
-- [Alpha#1](https://beta.gouv.fr/2017/12/08/alpha1.html) - 2017 - Méthodes d’innovation publique de l’incubateur Beta.gouv.fr
+- Eco-conception de services numériques – GreenIT – **2021**
+- Product Owner – Cegos – **2020** - Certification non passée
+- Co-Design – CNFPT/OKONI – **2019** - Initiation au design orienté politiques publiques
+- [Alpha#1](https://beta.gouv.fr/2017/12/08/alpha1.html) - **2017** - Méthodes d’innovation publique de l’incubateur Beta.gouv.fr
 
 ### Master 2 MSP Informatique (En alternance) - Université de Calais - 2007
 > Mémoire de fin d'études sur la mise en œuvre d'une solution mobile pour les travailleurs sociaux
@@ -53,7 +53,8 @@ Pragmatique, curieux et créatif
 ### CONSEIL DEPARTEMENTAL DU PAS DE CALAIS (10 ANS)
 
 #### Chargé de mission innovation (1 an)
-- Co-animateur du tiers lieu Innolab62 pour faciliter l’émergence de Start-ups de territoire (en collaboration avec BETA.GOUV de la Dinum). Artisan du produit "Lapins"
+- Co-animateur du tiers lieu Innolab62 pour faciliter l’émergence de Start-ups de territoire (en collaboration avec BETA.GOUV de la Dinum).
+- Artisan du produit "Lapins".
 - Veille sur l’innovation publique et les sujets de transformation par le numérique. Sourcing.
 
 #### Chef de projet informatique (9 ans)
@@ -65,6 +66,7 @@ Pragmatique, curieux et créatif
 
 #### Décisionnel (1 an)
 - Maintenance d’un entrepôt de données pour les contrôleurs de gestion
+- Migration d'entrepôts
 
 #### Chargé de projet Sharepoint (1 an)
 - Mise en œuvre d’un modèle de site standard pour gérer des projets
