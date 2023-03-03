@@ -66,7 +66,7 @@ Pragmatique, curieux et créatif
 
 #### Décisionnel (1 an)
 - Maintenance d’un entrepôt de données pour les contrôleurs de gestion
-- Migration d'entrepôts
+- Migration d'entrepôts OWB et d'univers BO
 
 #### Chargé de projet Sharepoint (1 an)
 - Mise en œuvre d’un modèle de site standard pour gérer des projets
@@ -75,17 +75,23 @@ Pragmatique, curieux et créatif
 #### Assistant chef de projet (3 ans)
 - Mise en œuvre d’une TMA pour la transition de système d’information
 - Pilotage, et organisation d’une équipe de prestataires. Coordination des services, des fonctionnels et des prestataires.
-- Premier applicatif web de la collectivité en 2002 (Outil de suivi des usagers des services sociaux)
+- Premier applicatif web de la collectivité en **2002** (Outil de suivi des usagers des services sociaux)
 
 #### Technicien (3 ans)
 - Maintenance opérationnelle, corrective et évolutive de micro-applications.
 - Assistance utilisateurs.
 
+### DECATHLON - Magasin Campus (2 ans)
+
+#### Vendeur principal sports de glisse (1999-2000)
+- Pilier du chef de rayon
+- 1er rang société sur la période - Forte croissance du chiffre d'affaire
+
 ## Centres d’intérêts
 
 - Musique : Guitare, Basse, Ukulélé et Piano.
-- Chorale et atelier jazz au conservatoire de La Madeleine.
-- Sports : 20 ans de planche à voile dont 10 ans d’encadrement (Moniteur et entraineur fédéral)- Running
+- Chorale et atelier jazz au conservatoire communal.
+- Sports : 20 ans de planche à voile dont 10 ans d’encadrement (Moniteur et entraineur fédéral)- Running.
 - Radiohead : Co-webmaster du site [Radiohead.fr](https://www.radiohead.fr) jusque 2017
 
 ---
