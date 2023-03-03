@@ -30,10 +30,10 @@ Pragmatique, curieux et créatif
 - [Alpha#1](https://beta.gouv.fr/2017/12/08/alpha1.html) - **2017** - Méthodes d’innovation publique de l’incubateur Beta.gouv.fr
 
 ### Master 2 MSP Informatique (En alternance) - Université de Calais - 2007
-> Mémoire de fin d'études sur la mise en œuvre d'une solution mobile pour les travailleurs sociaux
+> *Mémoire de fin d'études sur la mise en œuvre d'une solution mobile pour les travailleurs sociaux*
 
 ### Maitrise de Sciences Economiques – Université de Lille 1 - 1998
-> Mémoire sur la réduction du temps de travail en France
+> *Mémoire sur la réduction du temps de travail en France*
 
 ## Langues
 
