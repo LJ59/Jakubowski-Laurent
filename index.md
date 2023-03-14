@@ -39,7 +39,7 @@ Pragmatique, curieux et créatif
 
 - Anglais	Niveau C1 (Avancé) et anglais technique
 - Allemand	Niveau B2 (Intermédiaire)
-- Polonais	Notions élémentaires – apprentissage en cours
+- Polonais	A2 – apprentissage en cours
 
 ## Expériences professionnelles
 
