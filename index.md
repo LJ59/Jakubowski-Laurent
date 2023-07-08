@@ -1,8 +1,14 @@
-> **Chef de projets (numériques)**
+> **Chef de projets numériques**
 
 48 ans, 2 enfants   
 21 ans de projets informatiques dans 2 départements   
-Ingénieur territorial
+Ingénieur territorial principal
+
+---
+## Profil
+Expérimenté dans l'informatique et la question de la transformation numérique des organisations, j'ai 22 années d'expérience en gestion de projets territoriaux.
+J'ai travaillé avec des prestataires de différentes tailles et dans chaque organisation j'ai contribué à relever des défis organisationnels.
+Mon approche est centrée sur les impacts, axée sur le service rendu et toujours orientée vers l'avenir.
 
 ## Savoirs
 Domaines fonctionnels : Tous domaines
