@@ -97,7 +97,7 @@ Pragmatique, curieux et créatif
 - Musique : Guitare, Basse, Ukulélé et Piano.
 - Chorale et atelier jazz au conservatoire communal.
 - Sports : 20 ans de planche à voile dont 10 ans d’encadrement (Moniteur et entraineur fédéral)- Running.
-- Radiohead : Co-webmaster du site [Radiohead.fr](https://www.radiohead.fr) jusque 2017
+- Radiohead : Co-webmaster du site [Radiohead.fr](https://www.radiohead.fr) jusque 2017 (AMSP Tour)
 
 ---
 @jaku@mamot.fr - [Linkedin](https://www.linkedin.com/in/laurent-jakubowski-01080627)
