@@ -5,7 +5,7 @@
 Ingénieur territorial principal
 
 ## Profil
-Expérimenté dans l'informatique et la question de la transformation numérique des organisations, j'ai 22 années d'expérience en gestion de projets territoriaux.
+Expérimenté en informatique et la question de la transformation numérique des organisations, j'ai 22 années d'expérience en gestion de projets.
 J'ai travaillé avec des prestataires de différentes tailles et dans chaque organisation j'ai contribué à relever des défis organisationnels.
 Mon approche est centrée sur les impacts, axée sur le service rendu et toujours orientée vers l'avenir.
 
