@@ -1,7 +1,7 @@
 > **Chef de projets numériques**
 
 49 ans, 2 enfants   
-21 ans de projets informatiques dans 2 départements   
+22 ans de projets informatiques dans 2 départements   
 Ingénieur territorial principal
 
 ## Profil
