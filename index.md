@@ -29,6 +29,7 @@ Pragmatique, curieux et créatif
 
 ## Formations
 
+- Qualité web - Opquast - **2023** - Niveau avancé
 - Eco-conception de services numériques – GreenIT – **2021**
 - Product Owner – Cegos – **2020** - Certification non passée
 - Co-Design – CNFPT/OKONI – **2019** - Initiation au design orienté politiques publiques
