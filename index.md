@@ -3,7 +3,7 @@
  
 50 ans, 2 enfants  
 24 ans de projets informatiques dans 2 départements  
-Ingénieur territorial principal
+Ingénieur territorial
 
 ## Profil
 ---
@@ -109,7 +109,7 @@ Pragmatique, curieux et créatif
 
 ## Centres d’intérêts
 ---
-- Musique : Guitare, Basse, Ukulélé et Piano.
+- Musique : Guitare et Piano.
 - Sports : 20 ans de planche à voile dont 10 ans d’encadrement (Moniteur et entraineur fédéral).
 - Radiohead : Co-webmaster du site [Radiohead.fr](https://www.radiohead.fr/) jusque 2017 (AMSP Tour)
 
