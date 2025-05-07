@@ -1,8 +1,8 @@
 # Jakubowski Laurent
 > Chef de projets numériques
  
-49 ans, 2 enfants
-23 ans de projets informatiques dans 2 départements
+50 ans, 2 enfants
+24 ans de projets informatiques dans 2 départements
 Ingénieur territorial principal
 
 ## Profil
@@ -28,7 +28,6 @@ Pragmatique, curieux et créatif
 ### Compétences techniques
 
 - Langages :	SQL, HTML, CSS, Javascript
-- Framework :	Bootstrap 4.0. 
 - SGBD :	Quelques restes en Oracle, Mysql et décisionnel (Business Objects)
 - Outils préférés : Slack, Notion, Mindnode, Vscode
 
@@ -58,7 +57,7 @@ Pragmatique, curieux et créatif
 ---
 ### CONSEIL DEPARTEMENTAL DU NORD (DEPUIS 2020)
 
-#### Chef de Projet – Direction de la communication – Service Labo
+#### Chef de Projet – Direction de la communication – Service Pilotage et Appui
 
 - Conseil, accompagnement et pilotage de solutions numériques
 - Préconisations, veille, lien technique (DSi, prestataires)
@@ -69,7 +68,7 @@ Pragmatique, curieux et créatif
 #### Chargé de mission innovation (1 an)
 
 - Co-animateur du tiers lieu Innolab62 pour faciliter l’émergence de Start-ups de territoire (en collaboration avec BETA.GOUV de la Dinum).
-- Artisan du produit "Lapins".
+- Artisan du produit "Lapins" pour le prise en rendez-vous en maison solidarité.
 - Veille sur l’innovation publique et les sujets de transformation par le numérique. Sourcing.
 
 #### Chef de projet informatique (9 ans)
@@ -111,8 +110,7 @@ Pragmatique, curieux et créatif
 ## Centres d’intérêts
 ---
 - Musique : Guitare, Basse, Ukulélé et Piano.
-- Chorale et atelier jazz au conservatoire communal.
-- Sports : 20 ans de planche à voile dont 10 ans d’encadrement (Moniteur et entraineur fédéral)- Running.
+- Sports : 20 ans de planche à voile dont 10 ans d’encadrement (Moniteur et entraineur fédéral).
 - Radiohead : Co-webmaster du site [Radiohead.fr](https://www.radiohead.fr/) jusque 2017 (AMSP Tour)
 
 ---
