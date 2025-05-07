@@ -1,8 +1,8 @@
 # Jakubowski Laurent
 > Chef de projets numériques
  
-50 ans, 2 enfants
-24 ans de projets informatiques dans 2 départements
+50 ans, 2 enfants  
+24 ans de projets informatiques dans 2 départements  
 Ingénieur territorial principal
 
 ## Profil
