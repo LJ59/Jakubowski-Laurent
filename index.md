@@ -62,6 +62,7 @@ Pragmatique, curieux et créatif
 - Conseil, accompagnement et pilotage de solutions numériques
 - Préconisations, veille, lien technique (DSi, prestataires)
 - Mise en Oeuvre d'outils Saas ([Design system](https://communication.lenord.fr/), [emailing](https://www.sarbacane.com/), [formulaires](https://www.typeform.com/))
+- Experimentation de ChatGPT au sein de la direction 
 
 ### CONSEIL DEPARTEMENTAL DU PAS DE CALAIS (10 ANS)
 
