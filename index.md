@@ -31,7 +31,7 @@ Pragmatique, curieux et créatif
 - Outils préférés : Slack, Notion, Mindnode, Vscode
 
 ## Formations
----
+
 - Qualité web - Opquast - **2023** - Niveau avancé
 - Eco-conception de services numériques – GreenIT – **2021**
 - Product Owner – Cegos – **2020** - Certification non passée
@@ -53,7 +53,7 @@ Pragmatique, curieux et créatif
 - Polonais	A2 – apprentissage en cours
 
 ## Expériences professionnelles
----
+
 ### CONSEIL DEPARTEMENTAL DU NORD (DEPUIS 2020)
 
 #### Chef de Projet – Direction de la communication – Service Pilotage et Appui
@@ -108,7 +108,7 @@ Pragmatique, curieux et créatif
 - 1er rang société sur la période - Forte croissance du chiffre d'affaire
 
 ## Centres d’intérêts
----
+
 - Musique : Guitare et Piano.
 - Sports : 20 ans de planche à voile dont 10 ans d’encadrement (Moniteur et entraineur fédéral).
 - Radiohead : Co-webmaster du site [Radiohead.fr](https://www.radiohead.fr/) jusque 2017 (AMSP Tour)
