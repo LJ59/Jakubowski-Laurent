@@ -59,7 +59,7 @@ Pragmatique, curieux et créatif
 #### Chef de Projet – Direction de la communication – Service Pilotage et Appui
 
 - Conseil, accompagnement et pilotage de solutions numériques
-- Préconisations, veille, lien technique (DSi, prestataires)
+- Préconisations, veille, lien technique (DSi, prestataires) et fonctionnel (tous les métiers de la communication)
 - Mise en Oeuvre d'outils Saas ([Design system](https://communication.lenord.fr/), [emailing](https://www.sarbacane.com/), [formulaires](https://www.typeform.com/))
 - Experimentation de l'IA generative au sein de la direction 
 
