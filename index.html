@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <title>Laurent Jakubowski</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      max-width: 900px;
+      margin: auto;
+      padding: 40px;
+      line-height: 1.6;
+    }
+    pre, code {
+      background: #f4f4f4;
+      padding: 2px 5px;
+      border-radius: 4px;
+    }
+  </style>
+</head>
+<body>
+  <div id="content">Chargement...</div>
+
+  <script>
+    fetch("README.md")
+      .then(res => res.text())
+      .then(md => {
+        document.getElementById("content").innerHTML =
+          marked.parse(md);
+      });
+  </script>
+</body>
+</html>
