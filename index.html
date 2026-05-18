@@ -6,24 +6,59 @@
 
   <title>Laurent Jakubowski</title>
 
+  <!-- Favicon -->
+  <link rel="icon" type="image/png" href="favicon.png" />
+
+  <!-- Style -->
   <link rel="stylesheet" href="style.css" />
 
+  <!-- Markdown parser -->
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+
+  <!-- PDF export -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js"></script>
 </head>
 
 <body>
+
+  <header class="header">
+    <img class="avatar" src="profile.jpg" alt="Photo de profil" />
+
+    <div class="header-text">
+      <h1>Laurent Jakubowski</h1>
+      <p>Développeur Frontend</p>
+
+      <button id="pdfBtn">Télécharger PDF</button>
+    </div>
+  </header>
+
   <main id="content"></main>
 
   <script>
+    // Charger markdown
     async function loadMarkdown() {
       const response = await fetch("index.md");
       const markdown = await response.text();
-
-      document.getElementById("content").innerHTML =
-        marked.parse(markdown);
+      document.getElementById("content").innerHTML = marked.parse(markdown);
     }
 
     loadMarkdown();
+
+    // Export PDF
+    document.getElementById("pdfBtn").addEventListener("click", () => {
+      const element = document.body;
+
+      const opt = {
+        margin: 0.5,
+        filename: 'CV-Laurent-Jakubowski.pdf',
+        image: { type: 'jpeg', quality: 0.98 },
+        html2canvas: { scale: 2 },
+        jsPDF: { unit: 'in', format: 'a4', orientation: 'portrait' }
+      };
+
+      html2pdf().set(opt).from(element).save();
+    });
   </script>
+
 </body>
 </html>
