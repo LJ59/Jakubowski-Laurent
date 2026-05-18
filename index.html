@@ -3,7 +3,9 @@
 <head>
   <meta charset="utf-8">
   <title>Laurent Jakubowski</title>
+
   <meta name="viewport" content="width=device-width, initial-scale=1">
+
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
 
   <style>
@@ -11,18 +13,66 @@
       font-family: Arial, sans-serif;
       max-width: 900px;
       margin: auto;
-      padding: 40px;
+      padding: 40px 20px;
       line-height: 1.6;
+      background: #f8fafc;
+      color: #222;
     }
-    pre, code {
-      background: #f4f4f4;
+
+    h1 {
+      margin-bottom: 10px;
+    }
+
+    h2 {
+      margin-top: 40px;
+      border-bottom: 1px solid #ddd;
+      padding-bottom: 5px;
+    }
+
+    a {
+      color: #2563eb;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    code {
+      background: #eee;
       padding: 2px 5px;
       border-radius: 4px;
     }
+
+    pre {
+      background: #eee;
+      padding: 15px;
+      border-radius: 6px;
+      overflow-x: auto;
+    }
+
+    .header {
+      margin-bottom: 50px;
+    }
+
+    .subtitle {
+      color: #666;
+    }
   </style>
 </head>
+
 <body>
-  <div id="content">Chargement...</div>
+
+  <div class="header">
+    <h1>Laurent Jakubowski</h1>
+    <p class="subtitle">
+      Chef de projet
+    </p>
+  </div>
+
+  <div id="content">
+    Chargement...
+  </div>
 
   <script>
     fetch("index.md")
@@ -32,5 +82,6 @@
           marked.parse(md);
       });
   </script>
+
 </body>
 </html>
