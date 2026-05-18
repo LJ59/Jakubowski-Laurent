@@ -7,14 +7,58 @@ body {
   line-height: 1.7;
 }
 
+/* Header */
+.header {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  padding: 60px 24px 20px;
+  max-width: 800px;
+  margin: auto;
+}
+
+.avatar {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 1px solid #ddd;
+}
+
+.header-text h1 {
+  margin: 0;
+  font-size: 28px;
+}
+
+.header-text p {
+  margin: 4px 0 12px;
+  color: #666;
+}
+
+/* Button */
+#pdfBtn {
+  background: #111;
+  color: white;
+  border: none;
+  padding: 8px 14px;
+  font-size: 14px;
+  cursor: pointer;
+  border-radius: 4px;
+}
+
+#pdfBtn:hover {
+  opacity: 0.8;
+}
+
+/* Content */
 main {
   max-width: 800px;
   margin: auto;
-  padding: 80px 24px;
+  padding: 20px 24px 80px;
 }
 
 h1, h2, h3 {
-  margin-top: 48px;
+  margin-top: 40px;
 }
 
 a {
