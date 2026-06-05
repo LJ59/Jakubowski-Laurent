@@ -1,28 +1,22 @@
-:root {
-    /* Couleurs principales */
-    --primary: #3b82f6;       /* Bleu (pour les liens, boutons) */
-    --primary-hover: #2563eb;
-    --primary-light: #dbeafe;
+body {
+  margin: 0;
+  padding: 0;
+  background: #ffffff;
+  color: #111111;
+  font-family: Arial, sans-serif;
+  line-height: 1.7;
+}
 
-    /* Couleurs de fond */
-    --background: #ffffff;
-    --surface: #f8f9fa;
+main {
+  max-width: 800px;
+  margin: auto;
+  padding: 80px 24px;
+}
 
-    /* Couleurs de texte */
-    --text: #1a1a1a;
-    --text-light: #6c757d;
+h1, h2, h3 {
+  margin-top: 48px;
+}
 
-    /* Dark mode */
-    --dark-background: #1a1a1a;
-    --dark-surface: #2d2d2d;
-    --dark-text: #f0f0f0;
-    --dark-text-light: #a0a0a0;
-  }
-
-  /* Dark mode */
-  [data-theme="dark"] {
-    --background: var(--dark-background);
-    --surface: var(--dark-surface);
-    --text: var(--dark-text);
-    --text-light: var(--dark-text-light);
-  }
+a {
+  color: inherit;
+}
