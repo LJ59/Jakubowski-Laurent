@@ -3,112 +3,25 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="description" content="CV de Laurent Jakubowski - Chef de projet informatique avec 25 ans d'expérience en transformation numérique.">
-  <meta name="keywords" content="Laurent Jakubowski, CV, chef de projet, informatique, transformation numérique">
-  <meta name="author" content="Laurent Jakubowski">
 
-  <!-- Open Graph / SEO -->
-  <meta property="og:title" content="Laurent Jakubowski - Chef de projet">
-  <meta property="og:description" content="CV de Laurent Jakubowski - Expert en gestion de projets informatiques.">
-  <meta property="og:type" content="website">
-  <meta property="og:url" content="https://jakubowski-laurent.vercel.app">
-  <meta name="twitter:card" content="summary">
-
-  <title>Laurent Jakubowski | Chef de projet</title>
-
-  <!-- Favicon (optionnel) -->
-  <link rel="icon" type="image/x-icon" href="/favicon.ico">
-
-  <!-- Pico CSS (via CDN) -->
+  <title>Laurent Jakubowski</title>
+<!--  <link rel="stylesheet" href="style.css" /> -->
   <link rel="stylesheet" href="https://unpkg.com/@picocss/pico@latest/css/pico.min.css">
-  <link rel="stylesheet" href="style.css">
-
-  <!-- Marked.js pour parser le Markdown -->
   <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
-
-  <!-- Structured Data (Schema.org) -->
-  <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Person",
-      "name": "Laurent Jakubowski",
-      "jobTitle": "Chef de projet informatique",
-      "url": "https://jakubowski-laurent.vercel.app",
-      "email": "jaku@mamot.fr",
-      "sameAs": ["https://www.linkedin.com/in/laurent-jakubowski-01080627"]
-    }
-  </script>
 </head>
 
 <body>
-  <!-- Header avec navigation et bouton dark mode -->
-  <header class="container">
-    <div class="grid">
-      <div>
-        <h1>Laurent Jakubowski</h1>
-        <p class="subtitle">Chef de projet informatique</p>
-        <p>25 ans d'expérience en transformation numérique</p>
-      </div>
-      <div class="text-right">
-        <a href="https://www.linkedin.com/in/laurent-jakubowski-01080627" target="_blank" rel="noopener" role="button">LinkedIn</a>
-        <button id="darkModeToggle" aria-label="Basculer en mode sombre">🌓</button>
-      </div>
-    </div>
-  </header>
-
-  <!-- Contenu principal (chargé depuis index.md) -->
-  <main class="container" role="main">
-    <article id="content"></article>
-  </main>
-
-  <!-- Footer -->
-  <footer class="container">
-    <p>© 2026 Laurent Jakubowski | <a href="https://github.com/LJ59/Jakubowski-Laurent">Code source</a></p>
-  </footer>
+  <main id="content"></main>
 
   <script>
-    // Charger le Markdown
     async function loadMarkdown() {
-      try {
-        const response = await fetch("index.md");
-        if (!response.ok) throw new Error("Fichier introuvable");
-        const markdown = await response.text();
-        document.getElementById("content").innerHTML = marked.parse(markdown);
-      } catch (error) {
-        console.error("Erreur :", error);
-        document.getElementById("content").innerHTML = `
-          <div class="error">
-            <p>Erreur lors du chargement du contenu. Veuillez réessayer plus tard.</p>
-          </div>
-        `;
-      }
+      const response = await fetch("index.md");
+      const markdown = await response.text();
+
+      document.getElementById("content").innerHTML =
+        marked.parse(markdown);
     }
 
-    // Dark Mode (Pico CSS gère déjà le dark mode natif, mais on ajoute un bouton pour forcer)
-    const darkModeToggle = document.getElementById("darkModeToggle");
-    const prefersDarkScheme = window.matchMedia("(prefers-color-scheme: dark)");
-
-    // Appliquer le dark mode si l'utilisateur l'a activé ou si le système le préfère
-    if (localStorage.getItem("darkMode") === "enabled" || (localStorage.getItem("darkMode") === null && prefersDarkScheme.matches)) {
-      document.documentElement.setAttribute("data-theme", "dark");
-    }
-
-    // Écouter les changements de préférence système
-    prefersDarkScheme.addEventListener("change", (e) => {
-      if (localStorage.getItem("darkMode") === null) {
-        document.documentElement.setAttribute("data-theme", e.matches ? "dark" : "light");
-      }
-    });
-
-    // Basculer manuellement
-    darkModeToggle.addEventListener("click", () => {
-      const currentTheme = document.documentElement.getAttribute("data-theme");
-      const newTheme = currentTheme === "dark" ? "light" : "dark";
-      document.documentElement.setAttribute("data-theme", newTheme);
-      localStorage.setItem("darkMode", newTheme === "dark" ? "enabled" : "disabled");
-    });
-
-    // Charger le contenu au démarrage
     loadMarkdown();
   </script>
 </body>
